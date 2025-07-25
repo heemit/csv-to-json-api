@@ -48,6 +48,7 @@ Built with **Node.js**, **Express**, and **PostgreSQL**.
 ### 📂 Directory Structure
 
 csv-to-json-api/
+
 ├── index.js               # Express server  
 ├── db.js                  # PostgreSQL connection  
 ├── parseCsv.js            # Custom CSV parser with validation  
