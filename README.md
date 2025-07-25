@@ -48,16 +48,16 @@ Built with **Node.js**, **Express**, and **PostgreSQL**.
 ### 📂 Directory Structure
 
 csv-to-json-api/
-├── index.js               # Express server
-├── db.js                  # PostgreSQL connection
-├── parseCsv.js            # Custom CSV parser with validation
-├── uploadService.js       # Insert users & prevent duplicates
-├── reportService.js       # Age group distribution logic
-├── uploads/               # Temporarily stores uploaded CSV files
-├── sample.csv             # Example input
-├── users.sql              # SQL to create users table
-├── .env                   # Configuration file
-├── package.json
+├── index.js               # Express server  
+├── db.js                  # PostgreSQL connection  
+├── parseCsv.js            # Custom CSV parser with validation  
+├── uploadService.js       # Insert users & prevent duplicates  
+├── reportService.js       # Age group distribution logic  
+├── uploads/               # Temporarily stores uploaded CSV files  
+├── sample.csv             # Example input  
+├── users.sql              # SQL to create users table  
+├── .env                   # Configuration file  
+├── package.json  
 └── README.md
 
 
