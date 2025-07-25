@@ -27,16 +27,21 @@ Built with **Node.js**, **Express**, and **PostgreSQL**.
 
 ### ✅ Sample CSV
 
+<img width="987" height="176" alt="image" src="https://github.com/user-attachments/assets/0e0756ec-8363-47cc-979f-3f93621c748b" />
 
 ---
 
 ### 🔁 Converted JSON
 
+<img width="960" height="182" alt="image" src="https://github.com/user-attachments/assets/aab6b6e4-efa3-4cd4-9aa7-854c634f2abd" />
+
+<img width="958" height="181" alt="image" src="https://github.com/user-attachments/assets/a51cac7e-c71d-48d9-bd56-b8e2ebfd3f58" />
 
 ---
 
 ### 📊 Console Output: Age Distribution
 
+<img width="368" height="201" alt="image" src="https://github.com/user-attachments/assets/b848e75c-ea13-42ed-8664-fa6d8c225e5b" />
 
 ---
 
